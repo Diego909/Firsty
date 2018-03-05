@@ -22,4 +22,4 @@ else:
 if apetecce_helado and transaccion and vendedor:
     print("Pues toma tu helado.")
 else:
-    print("pues nada")
+    print("Pues nada")
