@@ -1,1 +1,1 @@
-# Firsty
+# Firsty es un proyecto de introduccion a python y tambien al mundo de la programacion. Mis dos actuales profesores son Nate Gentile y Rafa Laguna. Es posible que se vayan añadiendo mas profesores al proyecto
