@@ -6,10 +6,10 @@ print("Tu frase es {}".format(frase))
 
 contador_mayusculas = 0
 
-Mayusculas = [a, b, c, d, e, f, g, h, i, j, k, l, m, n, ñ, o, p, q, r, s, t, u, v, w, x, y, z]
+mayusculas = ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "Ñ", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z"]
 
 for letra in frase:
-    if letra == :
+    if letra in mayusculas :
         contador_mayusculas += 1
 
 print("Mayusculas: ", contador_mayusculas)
