@@ -2,8 +2,7 @@
 
 numero = int(input("¿Que numero quieres multiplicar?: "))
 
-for multiplo in range(11, 1):
+lista = [10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+
+for multiplo in lista:
     print("{} X {} = {}".format(numero, multiplo, numero * multiplo))
-
-
-NO TERMINADO
